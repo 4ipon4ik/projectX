@@ -1,0 +1,17 @@
+{
+  "Register": "Reģistrācija",
+  "Login": "Autorizācija",
+  "Main": "Galvenā",
+  "Name": "Vārds",
+  "E-Mail Address": "E-pasta adrese",
+  "Password": "Parole",
+  "Confirm Password": "Atkārtojiet paroli",
+  "Submit": "Apstiprināt",
+  "Remember Me": "Atcerēties mani",
+  "Forgot Your Password?": "Aizmirsi paroli?",
+  "You are logged in!": "Tu esi autorizēts!",
+  "Logout": "Beigt darbu",
+  "Reset Password": "Mainīt paroli",
+  "Send Password Reset Link": "Nosūtīt paroles atjaunošanas saiti",
+  "Dashboard": "Panelis"
+}
