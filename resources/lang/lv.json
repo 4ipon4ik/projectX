@@ -13,5 +13,22 @@
   "Logout": "Beigt darbu",
   "Reset Password": "Mainīt paroli",
   "Send Password Reset Link": "Nosūtīt paroles atjaunošanas saiti",
-  "Dashboard": "Panelis"
+  "Dashboard": "Panelis",
+  "Games": "Spēles",
+  "Add game": "Pievienot spēli",
+  "Description": "Apraksts",
+  "Release date": "Izlaišanas datums",
+  "Cover": "Titulbilde",
+  "Steam link": "Steam saite",
+  "Developer": "Izstrādātājs",
+  "Category": "Kategorija",
+  "Platform": "Platforma",
+  "Category name": "Kategorijas nosaukums",
+  "Save": "Saglabāt",
+  "Delete": "Dzēst",
+  "Game name": "Spēles nosaukums",
+  "Platform name": "Platformas nosaukums",
+  "Add platform": "Pievienot platformu",
+  "Add category": "Pievienot kategoriju",
+  "Add developer": "Pievienot izstrādātāju"
 }

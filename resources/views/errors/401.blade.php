@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('layouts.app')
 @section('title','401')
 @section('content')
     <h1>{{ $exception->getMessage().$exception->retryAfter }}</h1>

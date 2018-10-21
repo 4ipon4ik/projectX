@@ -1,0 +1,1 @@
+{{ \App\Developer::findOrFail(1)->name }}
